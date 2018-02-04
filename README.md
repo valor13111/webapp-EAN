@@ -1,4 +1,5 @@
 # webapp-EAN
+## A web application, which uses (or will) Express, Angular, and Node.
 
 ## Modules (also located in package.json)
 1.  Express <br>
